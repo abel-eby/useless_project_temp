@@ -166,13 +166,13 @@ Open the address in a web browser to use the Banana Emergency Hotline.
 For Software:
 
 # Screenshots
-![Landing Page](Add screenshot 1 here with proper name)
+![Landing Page](Screenshots/landing-page.png)
 *The landing page introduces the Banana Emergency Hotline and allows the user to begin a banana inspection.*
 
-![Banana Upload](Add screenshot 2 here with proper name)
+![Banana Upload](Screenshots/banana-upload.png)
 *The upload page allows users to submit a banana image and preview it before starting the AI analysis.*
 
-![Emergency Assessment](Add screenshot 3 here with proper name)
+![Emergency Assessment](Screenshots/emergency-assessment.png)
 *The assessment page displays the AI-generated banana condition, ripeness, visible issues, emergency level, recommendation, and confidence score.*
 
 
@@ -219,7 +219,7 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/file/d/1uq6MjH4iRNwliKhNIxI2SFCPKlS9XplJ/view?usp=sharing]
 *The demo video shows the complete workflow of the Banana Emergency Hotline, from uploading a banana image to receiving the AI-generated emergency assessment.*
 
 
